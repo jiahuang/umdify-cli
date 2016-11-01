@@ -1,0 +1,19 @@
+{
+  "name": "umdify-cli",
+  "version": "0.0.1",
+  "description": "cli wrapper around umidify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "umdify-cli": "bin/umdify-cli.js"
+  },
+  "preferGlobal": "true",
+  "author": "jiahuang",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "umdify": "jiahuang/umdify#8d5210b"
+  }
+}
