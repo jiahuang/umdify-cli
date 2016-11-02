@@ -5,7 +5,8 @@ umdify-cli is a tool to help convert amd module definitions to the [returnExport
 
 Usage:
 ```
-npm install -g umdify-cli
+git clone this repo
+npm install -g .
 umdify-cli app/**/*.js
 ```
 
