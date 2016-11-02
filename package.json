@@ -14,6 +14,6 @@
   "license": "MIT",
   "dependencies": {
     "glob": "^7.1.1",
-    "umdify": "jiahuang/umdify#8d5210b"
+    "umdify": "jiahuang/umdify#8632316"
   }
 }
