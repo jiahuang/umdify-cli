@@ -1,7 +1,7 @@
 umdify-cli
 =========
 
-umdify-cli is a tool to help convert amd module definitions to the [returnExports](https://github.com/umdjs/umd/blob/master/templates/returnExports.js) umd format.
+umdify-cli is a wrapper around my fork of [umdify](https://github.com/jiahuang/umdify) to help convert amd module definitions to the [returnExports](https://github.com/umdjs/umd/blob/master/templates/returnExports.js) umd format.
 
 Usage:
 ```
